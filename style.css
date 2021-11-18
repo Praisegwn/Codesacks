@@ -1,3 +1,18 @@
+/*Paragraph with the class = text starts here*/
+.text-About {
+  margin-top: 100px;
+  margin-left: 40px;
+  text-align: start;
+  font-size: 25px;
+}
+
+/*Ends here*/
+/*The color when switched to about*/
+.About {
+  color: #eb1414;
+}
+
+/*Ends here*/
 /*Universal codes starts here*/
 body {
   background-image: url("./img/laptop.jpg");
