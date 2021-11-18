@@ -1,1 +1,11 @@
-/* No CSS *//*# sourceMappingURL=style.css.map */
+body {
+  background-image: url("./img/laptop.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: #ffffff;
+}
+
+a {
+  text-decoration: none;
+}
+/*# sourceMappingURL=style.css.map */
