@@ -124,6 +124,20 @@ a {
 }
 
 /*Ends here*/
+.links img {
+  width: 40px;
+  height: 40px;
+  margin-left: 60px;
+  padding: 25px;
+}
+
+.links h3 {
+  margin-left: 60px;
+  float: right;
+  width: 84%;
+  margin-top: 35px;
+}
+
 /*The color when switched to learn page*/
 .learn {
   color: #eb1414;
