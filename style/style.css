@@ -1,6 +1,6 @@
 /*Universal codes starts here*/
 body {
-  background-image: url("./img/laptop.jpg");
+  background-image: url("/img/laptop.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   color: #ffffff;
