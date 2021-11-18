@@ -1,5 +1,4 @@
 @import 'config';
-@import 'About';
 
 /*Universal codes starts here*/
 body{
@@ -50,6 +49,13 @@ a{
                 height: 12px;
                 margin-top: 25px;
                 border-radius: 25px;
+            }
+
+            img{
+                width: 20px;
+                height: 20px;
+                margin-top: 25px;
+                padding-left: 10px;
             }
         }
     }
@@ -107,4 +113,8 @@ a{
         transition-duration: 1000ms;
     }
 }
+
+@import 'About';
+@import 'Contact';
+@import 'Learn';
 
