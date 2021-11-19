@@ -144,4 +144,21 @@ a {
 }
 
 /*Ends here*/
+.container {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.container .side {
+  width: 30%;
+  font-size: 10px;
+  margin-left: 60px;
+}
+
+.container .main {
+  width: 70%;
+  margin-right: 220px;
+  margin-top: 80px;
+}
 /*# sourceMappingURL=style.css.map */

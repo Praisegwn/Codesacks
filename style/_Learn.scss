@@ -4,3 +4,23 @@
 }
 
 /*Ends here*/
+
+
+.container{
+    display: flex;
+   
+
+
+    .side{
+        width: 30%;
+        // overflow-y: scroll;
+        font-size: 10px;
+        margin-left: 60px;
+    }
+
+    .main{
+        width: 70%;
+        margin-right: 220px;
+        margin-top: 80px;
+    }
+}
